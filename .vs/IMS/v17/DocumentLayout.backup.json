@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\convertors\\ivalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\convertors\\ivalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\convertors\\intconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\convertors\\intconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\View\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\HomePage.xaml.cs",
+              "RelativeToolTip": "IMS\\MVVM\\View\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:24:58.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "IMS\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\App.xaml.cs",
+              "RelativeToolTip": "IMS\\App.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:24:28.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IValueConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\IValueConverter.cs",
+              "RelativeDocumentMoniker": "IMS\\Convertors\\IValueConverter.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\IValueConverter.cs",
+              "RelativeToolTip": "IMS\\Convertors\\IValueConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:24:23.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntConvertor.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\IntConvertor.cs",
+              "RelativeDocumentMoniker": "IMS\\Convertors\\IntConvertor.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\IntConvertor.cs",
+              "RelativeToolTip": "IMS\\Convertors\\IntConvertor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:24:23.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
