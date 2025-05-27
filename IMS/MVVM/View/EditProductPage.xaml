@@ -5,7 +5,7 @@
              Title="Edit Product">
 
     <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center" HorizontalOptions="Center">
-        <Image Source="background.jpeg" Aspect="AspectFill"/>
+
 
         <Frame BackgroundColor="#66FFFFFF"
                CornerRadius="20"

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\transactionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\transactionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\editproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\editproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\editproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\editproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\inventorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +23,56 @@
       "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\editproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\editproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\editproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\editproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\convertors\\nulltoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\convertors\\nulltoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\convertors\\ivalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\convertors\\ivalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\convertors\\intconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\convertors\\intconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\convertors\\datatimeconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\convertors\\datatimeconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\inventorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\inventorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\transactionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\transactionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,43 +83,15 @@
       "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\view\\transactionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\view\\transactionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhbored\\.nuget\\packages\\communitytoolkit.maui\\11.2.0\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|c:\\users\\bhbored\\documents\\c#\\ims\\ims\\mvvm\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D5E05A-5EA8-4597-A1A7-39DD145C475E}|IMS\\IMS.csproj|solutionrelative:ims\\mvvm\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,7 +101,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,27 +113,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Transaction.cs",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Transaction.cs",
+              "RelativeToolTip": "IMS\\MVVM\\Model\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:59:33.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\EditProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\View\\EditProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\EditProductPage.xaml.cs",
+              "RelativeToolTip": "IMS\\MVVM\\View\\EditProductPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:29:02.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "HomePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\HomePage.xaml.cs",
               "RelativeDocumentMoniker": "IMS\\MVVM\\View\\HomePage.xaml.cs",
               "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\HomePage.xaml.cs",
               "RelativeToolTip": "IMS\\MVVM\\View\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T22:10:16.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TransactionPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\TransactionPage.xaml",
-              "RelativeDocumentMoniker": "IMS\\MVVM\\View\\TransactionPage.xaml",
-              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\TransactionPage.xaml",
-              "RelativeToolTip": "IMS\\MVVM\\View\\TransactionPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-25T21:45:10.897Z"
+              "WhenOpened": "2025-05-25T22:10:16.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,76 +158,195 @@
               "RelativeDocumentMoniker": "IMS\\MVVM\\View\\InventoryPage.xaml.cs",
               "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\InventoryPage.xaml.cs",
               "RelativeToolTip": "IMS\\MVVM\\View\\InventoryPage.xaml.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwCkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T22:07:13.008Z"
+              "WhenOpened": "2025-05-25T22:07:13.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TransactionPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\TransactionPage.xaml.cs",
               "RelativeDocumentMoniker": "IMS\\MVVM\\View\\TransactionPage.xaml.cs",
               "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\TransactionPage.xaml.cs",
               "RelativeToolTip": "IMS\\MVVM\\View\\TransactionPage.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T22:03:39.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "IMS\\MVVM\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:14:57.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EditProductPage.xaml",
               "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\EditProductPage.xaml",
               "RelativeDocumentMoniker": "IMS\\MVVM\\View\\EditProductPage.xaml",
               "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\EditProductPage.xaml",
               "RelativeToolTip": "IMS\\MVVM\\View\\EditProductPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-25T23:05:05.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditProductPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\EditProductPage.xaml.cs",
-              "RelativeDocumentMoniker": "IMS\\MVVM\\View\\EditProductPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\EditProductPage.xaml.cs",
-              "RelativeToolTip": "IMS\\MVVM\\View\\EditProductPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Supplier.cs",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Supplier.cs",
+              "RelativeToolTip": "IMS\\MVVM\\Model\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T01:29:02.402Z",
+              "WhenOpened": "2025-05-26T00:37:41.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InventoryPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\InventoryPage.xaml",
-              "RelativeDocumentMoniker": "IMS\\MVVM\\View\\InventoryPage.xaml",
-              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\InventoryPage.xaml",
-              "RelativeToolTip": "IMS\\MVVM\\View\\InventoryPage.xaml",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAFMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-25T22:06:38.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Product.cs",
               "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Product.cs",
               "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Product.cs",
               "RelativeToolTip": "IMS\\MVVM\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:59:53.985Z"
+              "WhenOpened": "2025-05-25T21:59:53.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Orders.cs",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Orders.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Orders.cs",
+              "RelativeToolTip": "IMS\\MVVM\\Model\\Orders.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:14:52.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Inventory.cs",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Inventory.cs",
+              "RelativeToolTip": "IMS\\MVVM\\Model\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:37:43.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Category.cs",
+              "RelativeToolTip": "IMS\\MVVM\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:37:44.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NullToBoolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\NullToBoolConverter.cs",
+              "RelativeDocumentMoniker": "IMS\\Convertors\\NullToBoolConverter.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\NullToBoolConverter.cs",
+              "RelativeToolTip": "IMS\\Convertors\\NullToBoolConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:14:48.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IValueConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\IValueConverter.cs",
+              "RelativeDocumentMoniker": "IMS\\Convertors\\IValueConverter.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\IValueConverter.cs",
+              "RelativeToolTip": "IMS\\Convertors\\IValueConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:14:47.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IntConvertor.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\IntConvertor.cs",
+              "RelativeDocumentMoniker": "IMS\\Convertors\\IntConvertor.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\IntConvertor.cs",
+              "RelativeToolTip": "IMS\\Convertors\\IntConvertor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:14:42.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataTimeConvertor.cs",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\DataTimeConvertor.cs",
+              "RelativeDocumentMoniker": "IMS\\Convertors\\DataTimeConvertor.cs",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\Convertors\\DataTimeConvertor.cs",
+              "RelativeToolTip": "IMS\\Convertors\\DataTimeConvertor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:14:31.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\InventoryPage.xaml",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\View\\InventoryPage.xaml",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\InventoryPage.xaml",
+              "RelativeToolTip": "IMS\\MVVM\\View\\InventoryPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-25T22:06:38.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\TransactionPage.xaml",
+              "RelativeDocumentMoniker": "IMS\\MVVM\\View\\TransactionPage.xaml",
+              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\TransactionPage.xaml",
+              "RelativeToolTip": "IMS\\MVVM\\View\\TransactionPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-25T21:45:10.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\ViewModel\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "IMS\\MVVM\\ViewModel\\HomeViewModel.cs",
@@ -204,19 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Category.cs",
-              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Category.cs",
-              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Category.cs",
-              "RelativeToolTip": "IMS\\MVVM\\Model\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T00:37:44.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "HomePage.xaml",
               "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\View\\HomePage.xaml",
               "RelativeDocumentMoniker": "IMS\\MVVM\\View\\HomePage.xaml",
@@ -228,31 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Supplier.cs",
-              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Supplier.cs",
-              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Supplier.cs",
-              "RelativeToolTip": "IMS\\MVVM\\Model\\Supplier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T00:37:41.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Inventory.cs",
-              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Inventory.cs",
-              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Inventory.cs",
-              "RelativeToolTip": "IMS\\MVVM\\Model\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T00:37:43.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "C:\\Users\\Bhbored\\.nuget\\packages\\communitytoolkit.maui\\11.2.0\\ReadMe.txt",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\11.2.0\\ReadMe.txt",
@@ -264,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MauiProgram.cs",
               "RelativeDocumentMoniker": "IMS\\MauiProgram.cs",
@@ -276,19 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Orders.cs",
-              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Orders.cs",
-              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Orders.cs",
-              "RelativeToolTip": "IMS\\MVVM\\Model\\Orders.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIBJwA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T22:14:52.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\App.xaml.cs",
               "RelativeDocumentMoniker": "IMS\\App.xaml.cs",
@@ -297,18 +403,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T22:00:38.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Transaction.cs",
-              "RelativeDocumentMoniker": "IMS\\MVVM\\Model\\Transaction.cs",
-              "ToolTip": "C:\\Users\\Bhbored\\Documents\\c#\\IMS\\IMS\\MVVM\\Model\\Transaction.cs",
-              "RelativeToolTip": "IMS\\MVVM\\Model\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:59:33.453Z"
             }
           ]
         }
