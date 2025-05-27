@@ -1,4 +1,6 @@
-﻿using IMS.MVVM.View;
+﻿using IMS.MVVM.Model;
+using IMS.MVVM.View;
+using IMS.MVVM.ViewModel;
 
 namespace IMS
 {
@@ -7,6 +9,19 @@ namespace IMS
         public App()
         {
             InitializeComponent();
+
+            using (var db = new AppDbContext())
+            {
+                db.Database.EnsureCreated();      
+                if (!db.Products.Any())
+                {
+                    foreach (var product in HomeViewModel.Instance.CurrentInventory)
+                    {
+                        db.Products.Add(product);
+                    }
+                    db.SaveChanges();
+                }
+            }
         }
 
         protected override Window CreateWindow(IActivationState? activationState)

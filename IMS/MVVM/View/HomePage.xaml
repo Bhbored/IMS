@@ -10,15 +10,15 @@
         <Convertors:DateTimeConvertor x:Key="dateConvertor"/>
     </ContentPage.Resources>
     <Grid ColumnDefinitions=".05*,.8*,.20*">
+        <Image Source="background.jpeg" Grid.ColumnSpan="3" Aspect="AspectFill" Opacity="1"/>
         <!--#region SideBar Nav -->
-        <Grid Grid.Column="0" BackgroundColor="Wheat">
+        <Grid Grid.Column="0" BackgroundColor="#66FFFFFF" >
             <VerticalStackLayout
                 HorizontalOptions="Center"
-
                 >
                 <ImageButton Source="home.png" StyleClass="NavImg"/>
                 <ImageButton Source="orders.png" StyleClass="NavImg" Clicked="OnOrdersClicked"/>
-                <ImageButton Source="menubar.png" StyleClass="NavImg"/>
+                <ImageButton Source="menubar.png" StyleClass="NavImg" Clicked="GoToInventory"/>
             </VerticalStackLayout>
         </Grid>
 
@@ -184,7 +184,7 @@
 
 
         <Border Grid.Column="2"
-                BackgroundColor="#F5E6D3"
+                BackgroundColor="#66FFFFFF"
                 StrokeThickness="0"
                 Padding="16">
 

@@ -294,7 +294,6 @@ namespace IMS.MVVM.ViewModel
 
             var transaction = new Transaction
             {
-                TransactionID = new Random().Next(1000, 9999),
                 TransactionDate = DateTime.Now,
                 PaymentMethod = paymentMethod,
                 Subtotal = Subtotal,
@@ -303,16 +302,25 @@ namespace IMS.MVVM.ViewModel
                 Status = "Completed",
                 OrderItems = new ObservableCollection<Orders>(Orders),
                 OrderCount = Orders.Count,
+                CustomerName = "Guest", // Update this if you support input
+                Notes = ""
             };
 
-            Transactions.Add(transaction);
+            using (var db = new AppDbContext())
+            {
+                db.Transactions.Add(transaction);
+                db.SaveChanges();
+            }
+
+            Transactions.Add(transaction); // still adds to in-memory collection
             Orders.Clear();
             NotifyCalculatedPropertiesChanged();
 
             Application.Current?.MainPage?.DisplayAlert("Payment Complete",
-                $"Transaction completed successfully!\nTransaction ID: {transaction.TransactionID}\nTotal: ${transaction.Total:F2}",
+                $"Transaction completed successfully!\nTotal: ${transaction.Total:F2}",
                 "OK");
         }
+
         #endregion
 
 

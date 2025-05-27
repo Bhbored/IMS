@@ -1,17 +1,31 @@
+C:\Users\Bhbored\.nuget\packages\communitytoolkit.maui\11.2.0\lib\net9.0-maccatalyst18.0\CommunityToolkit.Maui.dll
+C:\Users\Bhbored\.nuget\packages\communitytoolkit.maui.core\11.2.0\lib\net9.0-maccatalyst18.0\CommunityToolkit.Maui.Core.dll
+C:\Users\Bhbored\.nuget\packages\communitytoolkit.maui.mediaelement\6.0.2\lib\net9.0-maccatalyst18.0\CommunityToolkit.Maui.MediaElement.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.data.sqlite.core\9.0.5\lib\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.entityframeworkcore\9.0.5\lib\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.entityframeworkcore.abstractions\9.0.5\lib\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.entityframeworkcore.relational\9.0.5\lib\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\9.0.5\lib\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.caching.abstractions\9.0.5\lib\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.caching.memory\9.0.5\lib\net9.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.extensions.configuration\9.0.0\lib\net9.0\Microsoft.Extensions.Configuration.dll
-C:\Users\Bhbored\.nuget\packages\microsoft.extensions.configuration.abstractions\9.0.0\lib\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Bhbored\.nuget\packages\microsoft.extensions.dependencyinjection\9.0.0\lib\net9.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Bhbored\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\9.0.0\lib\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Bhbored\.nuget\packages\microsoft.extensions.logging\9.0.0\lib\net9.0\Microsoft.Extensions.Logging.dll
-C:\Users\Bhbored\.nuget\packages\microsoft.extensions.logging.abstractions\9.0.0\lib\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.configuration.abstractions\9.0.5\lib\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.dependencyinjection\9.0.5\lib\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\9.0.5\lib\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.dependencymodel\9.0.5\lib\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.logging\9.0.5\lib\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.logging.abstractions\9.0.5\lib\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.extensions.logging.debug\9.0.0\lib\net9.0\Microsoft.Extensions.Logging.Debug.dll
-C:\Users\Bhbored\.nuget\packages\microsoft.extensions.options\9.0.0\lib\net9.0\Microsoft.Extensions.Options.dll
-C:\Users\Bhbored\.nuget\packages\microsoft.extensions.primitives\9.0.0\lib\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.options\9.0.5\lib\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Bhbored\.nuget\packages\microsoft.extensions.primitives\9.0.5\lib\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-maccatalyst18.0\Microsoft.Maui.Controls.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.controls.xaml\9.0.51\lib\net9.0-maccatalyst18.0\Microsoft.Maui.Controls.Xaml.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.core\9.0.51\lib\net9.0-maccatalyst18.0\Microsoft.Maui.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.essentials\9.0.51\lib\net9.0-maccatalyst18.0\Microsoft.Maui.Essentials.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.graphics\9.0.51\lib\net9.0-maccatalyst18.0\Microsoft.Maui.Graphics.dll
+C:\Users\Bhbored\.nuget\packages\sqlitepclraw.bundle_e_sqlite3\2.1.10\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Bhbored\.nuget\packages\sqlitepclraw.core\2.1.10\lib\netstandard2.0\SQLitePCLRaw.core.dll
+C:\Users\Bhbored\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.10\lib\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-maccatalyst18.0\ar\Microsoft.Maui.Controls.resources.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-maccatalyst18.0\ca\Microsoft.Maui.Controls.resources.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-maccatalyst18.0\cs\Microsoft.Maui.Controls.resources.dll
@@ -46,6 +60,7 @@ C:\Users\Bhbored\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-maccatalyst18.0\zh-HK\Microsoft.Maui.Controls.resources.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-maccatalyst18.0\zh-Hans\Microsoft.Maui.Controls.resources.dll
 C:\Users\Bhbored\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-maccatalyst18.0\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\Bhbored\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.10\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64\9.0.5\runtimes\maccatalyst-x64\lib\net9.0\Microsoft.CSharp.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64\9.0.5\runtimes\maccatalyst-x64\lib\net9.0\Microsoft.VisualBasic.Core.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64\9.0.5\runtimes\maccatalyst-x64\lib\net9.0\Microsoft.VisualBasic.dll

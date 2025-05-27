@@ -1,16 +1,20 @@
 ﻿using PropertyChanged;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 
 namespace IMS.MVVM.Model
 {
     [AddINotifyPropertyChangedInterface]
     public class Product
     {
+        [Key]
         public int ProductID { get; set; }
+
         public string? Name { get; set; }
         public string? Description { get; set; }
 

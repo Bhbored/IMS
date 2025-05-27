@@ -1,0 +1,105 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IMS.MVVM.View.TransactionPage"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid ColumnDefinitions=".05*, .70*, .25*" Background="Transparent">
+        <Image Source="background.jpeg" Aspect="AspectFill" Grid.ColumnSpan="3"/>
+
+        <Grid Grid.Column="0" BackgroundColor="#66FFFFFF">
+            <VerticalStackLayout HorizontalOptions="Center">
+                <ImageButton Source="home.png" StyleClass="NavImg" Clicked="GoHome"/>
+                <ImageButton Source="orders.png" StyleClass="NavImg"/>
+                <ImageButton Source="menubar.png" StyleClass="NavImg" Clicked="GoToInventory"/>
+            </VerticalStackLayout>
+        </Grid>
+
+        <ScrollView Grid.Column="1">
+            <VerticalStackLayout Padding="20" Spacing="25">
+                <Label Text="Transactions"
+                       FontSize="34"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"
+                       Margin="0,10"/>
+
+                <CollectionView ItemsSource="{Binding TransactionList}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame Padding="15"
+                                   CornerRadius="20"
+                                   BackgroundColor="#E5E5E5"
+                                   HasShadow="True"
+                                   HeightRequest="150"
+                                   Margin="5,0,0,10">
+                                <Grid ColumnDefinitions="*, *" RowDefinitions="*, *, *, *" ColumnSpacing="15">
+                                    <VerticalStackLayout Grid.RowSpan="4" Grid.Column="0" Spacing="6">
+                                        <Label Text="{Binding TransactionID, StringFormat='Transaction #{0}'}" FontSize="20" FontAttributes="Bold"/>
+                                        <Label Text="{Binding TransactionDate, StringFormat='Date: {0:dd MMM yyyy hh:mm tt}'}" FontSize="14"/>
+                                        <Label Text="{Binding PaymentMethod, StringFormat='Payment: {0}'}" FontSize="14"/>
+                                        <Label Text="{Binding Total, StringFormat='Total: ${0:F2}'}" FontSize="16" FontAttributes="Bold" TextColor="Green"/>
+                                    </VerticalStackLayout>
+                                    <Button Text="Delete"
+                                            Grid.Column="1"
+                                            Grid.RowSpan="4"
+                                            VerticalOptions="Center"
+                                            BackgroundColor="#DC143C"
+                                            TextColor="White"
+                                            CornerRadius="15"
+                                            Padding="10,5"
+                                            CommandParameter="{Binding}"
+                                            WidthRequest="100"
+                                            Clicked="OnDeleteTransaction"/>
+                                </Grid>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                    <CollectionView.ItemsLayout>
+                        <GridItemsLayout Orientation="Vertical"
+                                         Span="{OnPlatform iOS=2, Android=2, WinUI=2}"
+                                         HorizontalItemSpacing="12"
+                                         VerticalItemSpacing="12"/>
+                    </CollectionView.ItemsLayout>
+                </CollectionView>
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <Grid Grid.Column="2" BackgroundColor="#66FFFFFF">
+            <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="10">
+
+                <Frame CornerRadius="20"
+                       BackgroundColor="White"
+                       HasShadow="True"
+                       Padding="20"
+                       WidthRequest="320"
+                       HeightRequest="400"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center">
+
+                    <VerticalStackLayout Spacing="12" HorizontalOptions="Center">
+
+                        <!-- 🖼 GIF Image -->
+                        <Image Source="transaction.gif"
+                               HeightRequest="220"
+                               Aspect="AspectFit"
+                               IsAnimationPlaying="True"
+                               HorizontalOptions="Center"/>
+
+
+                        <Label Text="Manage your transactions with ease"
+                               FontSize="24"
+                               TextColor="#666"
+                               HorizontalTextAlignment="Center"
+                               HorizontalOptions="Center"
+                               Margin="0,15,0,0"
+                               FontAttributes="Bold"/>
+                    </VerticalStackLayout>
+                </Frame>
+
+            </VerticalStackLayout>
+        </Grid>
+
+
+
+    </Grid>
+</ContentPage>

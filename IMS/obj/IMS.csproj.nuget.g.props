@@ -19,6 +19,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.51\buildTransitive\Microsoft.Maui.Resizetizer.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.51\buildTransitive\Microsoft.Maui.Resizetizer.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.core\9.0.51\buildTransitive\Microsoft.Maui.Core.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.core\9.0.51\buildTransitive\Microsoft.Maui.Core.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\9.0.51\buildTransitive\netstandard2.0\Microsoft.Maui.Controls.Build.Tasks.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\9.0.51\buildTransitive\netstandard2.0\Microsoft.Maui.Controls.Build.Tasks.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.5\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.5\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
   </ImportGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net9.0-ios' AND '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)propertychanged.fody\4.1.0\build\PropertyChanged.Fody.props" Condition="Exists('$(NuGetPackageRoot)propertychanged.fody\4.1.0\build\PropertyChanged.Fody.props')" />
@@ -26,6 +27,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.51\buildTransitive\Microsoft.Maui.Resizetizer.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.51\buildTransitive\Microsoft.Maui.Resizetizer.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.core\9.0.51\buildTransitive\Microsoft.Maui.Core.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.core\9.0.51\buildTransitive\Microsoft.Maui.Core.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\9.0.51\buildTransitive\net6.0-ios10.0\Microsoft.Maui.Controls.Build.Tasks.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\9.0.51\buildTransitive\net6.0-ios10.0\Microsoft.Maui.Controls.Build.Tasks.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.5\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.5\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
   </ImportGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net9.0-maccatalyst' AND '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)propertychanged.fody\4.1.0\build\PropertyChanged.Fody.props" Condition="Exists('$(NuGetPackageRoot)propertychanged.fody\4.1.0\build\PropertyChanged.Fody.props')" />
@@ -33,6 +35,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.51\buildTransitive\Microsoft.Maui.Resizetizer.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.51\buildTransitive\Microsoft.Maui.Resizetizer.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.core\9.0.51\buildTransitive\Microsoft.Maui.Core.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.core\9.0.51\buildTransitive\Microsoft.Maui.Core.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\9.0.51\buildTransitive\net6.0-maccatalyst13.1\Microsoft.Maui.Controls.Build.Tasks.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\9.0.51\buildTransitive\net6.0-maccatalyst13.1\Microsoft.Maui.Controls.Build.Tasks.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.5\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.5\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
   </ImportGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net9.0-windows10.0.19041.0' AND '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)propertychanged.fody\4.1.0\build\PropertyChanged.Fody.props" Condition="Exists('$(NuGetPackageRoot)propertychanged.fody\4.1.0\build\PropertyChanged.Fody.props')" />
@@ -41,6 +44,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.51\buildTransitive\Microsoft.Maui.Resizetizer.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.51\buildTransitive\Microsoft.Maui.Resizetizer.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.core\9.0.51\buildTransitive\net9.0-windows10.0.17763.0\Microsoft.Maui.Core.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.core\9.0.51\buildTransitive\net9.0-windows10.0.17763.0\Microsoft.Maui.Core.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\9.0.51\buildTransitive\net6.0-windows10.0.17763.0\Microsoft.Maui.Controls.Build.Tasks.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\9.0.51\buildTransitive\net6.0-windows10.0.17763.0\Microsoft.Maui.Controls.Build.Tasks.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.5\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.5\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(TargetFramework)' == 'net9.0-android' AND '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\Bhbored\.nuget\packages\microsoft.net.illink.tasks\9.0.5</PkgMicrosoft_NET_ILLink_Tasks>

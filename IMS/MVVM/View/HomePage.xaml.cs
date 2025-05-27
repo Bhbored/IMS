@@ -17,8 +17,13 @@ public partial class HomePage : ContentPage
     }
     private async void OnOrdersClicked(object sender, EventArgs e)
     {
+        await Navigation.PushAsync(new TransactionPage());
         
-        
+
+    }
+    private async void GoToInventory(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new InventoryPage());
     }
 
 

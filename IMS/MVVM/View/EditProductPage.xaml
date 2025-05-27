@@ -1,0 +1,72 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IMS.MVVM.View.EditProductPage"
+             BackgroundColor="#F4F4F4"
+             Title="Edit Product">
+
+    <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center" HorizontalOptions="Center">
+        <Image Source="background.jpeg" Aspect="AspectFill"/>
+
+        <Frame BackgroundColor="#66FFFFFF"
+               CornerRadius="20"
+               Padding="25"
+               WidthRequest="350"
+               HasShadow="True">
+
+            <VerticalStackLayout Spacing="20">
+
+                <Label Text="Edit Product"
+                       FontSize="26"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"
+                       TextColor="#333"/>
+
+                <!-- Product Name Entry -->
+                <Frame CornerRadius="12" Padding="10" BackgroundColor="#F0F0F0" HasShadow="False">
+                    <Entry x:Name="nameEntry"
+                           Placeholder="Product Name"
+                           BackgroundColor="Transparent"
+                           TextColor="Black"/>
+                </Frame>
+
+                <!-- Stock Entry -->
+                <Frame CornerRadius="12" Padding="10" BackgroundColor="#F0F0F0" HasShadow="False">
+                    <Entry x:Name="stockEntry"
+                           Placeholder="Stock"
+                           Keyboard="Numeric"
+                           BackgroundColor="Transparent"
+                           TextColor="Black"/>
+                </Frame>
+
+                <!-- Price Entry -->
+                <Frame CornerRadius="12" Padding="10" BackgroundColor="#F0F0F0" HasShadow="False">
+                    <Entry x:Name="priceEntry"
+                           Placeholder="Price"
+                           Keyboard="Numeric"
+                           BackgroundColor="Transparent"
+                           TextColor="Black"/>
+                </Frame>
+
+                <!-- Buttons -->
+                <Grid ColumnDefinitions="*,*" ColumnSpacing="15">
+                    <Button Text="Save"
+                            Clicked="OnSaveClicked"
+                            BackgroundColor="#4CAF50"
+                            TextColor="White"
+                            CornerRadius="12"
+                            HeightRequest="45"
+                            Grid.Column="0"/>
+
+                    <Button Text="Cancel"
+                            Clicked="OnCancelClicked"
+                            BackgroundColor="#9E9E9E"
+                            TextColor="White"
+                            CornerRadius="12"
+                            HeightRequest="45"
+                            Grid.Column="1"/>
+                </Grid>
+
+            </VerticalStackLayout>
+        </Frame>
+    </VerticalStackLayout>
+</ContentPage>

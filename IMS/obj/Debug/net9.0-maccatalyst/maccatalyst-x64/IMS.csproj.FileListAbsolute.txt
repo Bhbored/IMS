@@ -354,3 +354,7 @@ C:\Users\Bhbored\Documents\c#\IMS\IMS\obj\Debug\net9.0-maccatalyst\maccatalyst-x
 C:\Users\Bhbored\Documents\c#\IMS\IMS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\IMS.csproj.Up2Date
 C:\Users\Bhbored\Documents\c#\IMS\IMS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\IMS.genruntimeconfig.cache
 C:\Users\Bhbored\Documents\c#\IMS\IMS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\IMS.dll
+C:\Users\Bhbored\Documents\c#\IMS\IMS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\IMS.sourcelink.json
+C:\Users\Bhbored\Documents\c#\IMS\IMS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\background.jpeg
+C:\Users\Bhbored\Documents\c#\IMS\IMS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\transaction.gif
+C:\Users\Bhbored\Documents\c#\IMS\IMS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\inventory.gif
