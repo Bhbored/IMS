@@ -75,5 +75,3 @@ MIT – See LICENSE (if available).
 1. **Create a new `README.md`** in your project root.  
 2. **Paste the content above** into the file.  
 3. **Customize** (e.g., adjust DB details, add screenshots).  
-
-Let me know if you'd like any modifications! 🚀
